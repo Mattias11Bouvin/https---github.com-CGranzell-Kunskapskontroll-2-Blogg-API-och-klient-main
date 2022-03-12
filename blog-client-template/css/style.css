@@ -1,0 +1,39 @@
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #7ed3fc;
+}
+hr {
+  width: 70%;
+  height: 2px;
+  background-color: aliceblue;
+}
+h2 {
+  font-size: 50px;
+  font-weight: bold;
+  color: black;
+}
+
+.header {
+  background-color: #7ed3fc;
+  padding: 30px 40px;
+  color: aliceblue;
+  text-align: center;
+}
+#myUL {
+  text-align: center;
+}
+
+.testing-mathias {
+  border: 1px solid black;
+  text-align: center;
+  width: 100%;
+}
+
+/* Christoffers kod */
+.specific-post {
+  border: 1px solid #000;
+}
